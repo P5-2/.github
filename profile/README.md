@@ -47,7 +47,9 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
 
 ### 💻 IDE
 <p>
@@ -85,17 +87,74 @@
 
 
 
-## 설계 문서
-### 아키텍처 구조
-- 모놀리식 아키텍처
+## 📝 설계 문서
+
+### 🏛️ 아키텍처 구조
+- **모놀리식 아키텍처**를 채택하여 시스템을 설계하였습니다.
+  
   ![architecture](https://github.com/user-attachments/assets/abe9e549-5634-42c3-965d-9d1a1c40cf45)
+  *아키텍처 구조*
 
-### ERD
-- MySQL을 이용한 데이터 모델 설계
+### 📊 ERD (Entity-Relationship Diagram)
+- MySQL을 활용하여 데이터 모델을 설계하였습니다.
+  
   ![erd](https://github.com/user-attachments/assets/9468ef6a-75af-46ee-bd05-71be56085013)
+  *ERD*
 
-## 기능 시연
+### 🎨 스토리보드
+- Figma를 이용해 사용자 인터페이스와 흐름을 시각적으로 설계하였습니다.
+  
+  ![storyboard](https://github.com/user-attachments/assets/4abccb6a-f1d8-4eb0-b334-c625ce03ba90)
+  *스토리보드*
 
+
+
+
+## 🚀 기능 시연
+
+### 🔐 로그인 및 회원 가입
+- **SNS 로그인**
+  - 카카오, 네이버 계정을 통해 간편하게 SNS 로그인이 가능합니다.
+  - SNS 계정과 연동하여 손쉽게 회원 가입 및 로그인할 수 있습니다.
+
+  ![네이버 로그인](https://github.com/user-attachments/assets/1975063a-7aa6-416f-899b-ae8c91205e8a)
+  *네이버 로그인*
+
+  ![카카오 로그인](https://github.com/user-attachments/assets/b3f425c4-a4e8-487d-b9f8-28b2bee1d83e)
+  *카카오 로그인*
+
+### 📊 펀드 페이지
+- **모든 펀드 상품 조회 가능**
+  - 다양한 펀드 상품을 한눈에 확인할 수 있습니다.
+- **비교하기 기능**
+  - 체크 박스를 이용해 모달 창으로 여러 펀드 상품을 선택하고 비교할 수 있습니다.
+- **계산기 아이콘과 하트 아이콘 활용**
+  - 계산기 아이콘: 계산기에 담아 예상 이익을 계산할 수 있습니다.
+  - 하트 아이콘: 즐겨 찾기에 추가하거나 삭제할 수 있습니다.
+
+  ![fund page](https://github.com/user-attachments/assets/b0dbd307-3623-4e99-9e89-ef976b0d0b66)
+  *펀드 페이지*
+
+  ![fund 모달창](https://github.com/user-attachments/assets/e6b5b727-c44a-4b21-8a55-5f41db7db0b6)
+  *펀드 모달창*
+
+
+### ⭐ 즐겨찾기 페이지
+- **예금, 적금, 펀드 상품 즐겨찾기**
+  - 사용자가 원하는 예금, 적금, 펀드 상품을 즐겨찾기에 추가하여 한눈에 확인할 수 있습니다.
+- **상품 별 조회**
+  - 예금, 적금, 펀드 탭을 이용해 각 상품을 별도로 조회할 수 있습니다.
+- **비교하기 기능**
+  - 체크 박스를 통해 여러 상품을 선택하고 모달 창에서 상세 비교가 가능합니다.
+
+  ![like-deposit](https://github.com/user-attachments/assets/2d0ba69c-7be0-46a8-959a-8909c349115d)
+  *예금 즐겨찾기 페이지*
+
+  ![like-fund](https://github.com/user-attachments/assets/b2c031a1-6570-46d8-8955-2e71105a1e69)
+  *펀드 즐겨찾기 페이지*
+
+  ![like-savings](https://github.com/user-attachments/assets/0e85b80d-6238-4c82-a7ac-41660b371c64)
+  *적금 즐겨찾기 페이지*
 
 
 <!--
