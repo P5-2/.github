@@ -129,6 +129,23 @@
   *펀드 모달창*
 
 
+### ⭐ 즐겨찾기 페이지
+- **예금, 적금, 펀드 상품 즐겨찾기**
+  - 사용자가 원하는 예금, 적금, 펀드 상품을 즐겨찾기에 추가하여 한눈에 확인할 수 있습니다.
+- **상품 별 조회**
+  - 예금, 적금, 펀드 탭을 이용해 각 상품을 별도로 조회할 수 있습니다.
+- **비교하기 기능**
+  - 체크 박스를 통해 여러 상품을 선택하고 모달 창에서 상세 비교가 가능합니다.
+
+  ![like-deposit](https://github.com/user-attachments/assets/2d0ba69c-7be0-46a8-959a-8909c349115d)
+  *예금 즐겨찾기 페이지*
+
+  ![like-fund](https://github.com/user-attachments/assets/b2c031a1-6570-46d8-8955-2e71105a1e69)
+  *펀드 즐겨찾기 페이지*
+
+  ![like-savings](https://github.com/user-attachments/assets/0e85b80d-6238-4c82-a7ac-41660b371c64)
+  *적금 즐겨찾기 페이지*
+
 
 <!--
 
