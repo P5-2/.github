@@ -213,6 +213,49 @@
   *적금 즐겨찾기 페이지*
 
 
+### 🏠 메인 페이지
+- **예금, 적금, 펀드 Hot 3 상품**
+  - 사람들에게 가장 인기있는 금융상품 세 가지를 추천해줍니다.
+
+  ![HotItemList](https://github.com/user-attachments/assets/f88475f3-df82-42f5-8893-c5d0051d4441)
+  *금융상품 Hot 3*
+
+- **금융꿀팁**
+ - 금융감독원이 알려주는 은행·금융에 관한 유의사항, 유익정보와 같은 꿀팁을 알려줍니다.
+ ![financeTip](https://github.com/user-attachments/assets/026ff264-d645-4071-a8f0-4cba66800c12)
+ *금융꿀팁*
+
+
+### 🔍 상세 페이지
+- **금융상품 페이지**
+  - 선택한 금융상품의 상세정보를 확인할 수 있습니다.
+
+  ![예적금상세](https://github.com/user-attachments/assets/a1741622-c821-4cac-b0bd-8ac30de0a667)
+  *예적금 상세 페이지*
+
+  ![펀드상세](https://github.com/user-attachments/assets/5d511141-c2f7-4b0e-a5bb-5265ebf2ab74)
+  *펀드 상세 페이지*
+
+### 🧮 계산기 기능
+- **계산기에 상품 담기**
+  - 계산하고 싶은 상품을 중복되지 않게 담을 수 있습니다.
+- **상품 계산하기**
+  - 담은 상품에 원하는 금액을 투자하여 미래 수익을 계산할 수 있습니다.
+
+  ![담기](https://github.com/user-attachments/assets/732f9282-2fe8-491d-9687-6e73a20f6e67)
+  *계산기 상품 담기*
+
+  ![계산하기](https://github.com/user-attachments/assets/00fe459c-8d87-4e8f-a98b-605c6e1c6ea0)
+  *계산하기*
+
+### ❓ 퀴즈 기능
+- **총 42가지의 퀴즈**
+  - 42개의 퀴즈중 랜덤으로 매일 하나 씩 제공합니다.
+  - 객관식 금융 퀴즈를 통해 금융 상식을 늘릴 수 있습니다.
+
+  ![퀴즈](https://github.com/user-attachments/assets/884cca3b-8659-4d7a-89c4-a85e4c4e7f98)
+  *퀴즈*
+  
 ### 💰 환율 조회 페이지
 - **주요 환율 3종 상단 하이라이트**
   - 통화량이 많은 주요 통화 3종의 시세를 손쉽게 파악할 수 있습니다.
