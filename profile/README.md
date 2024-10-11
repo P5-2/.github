@@ -26,7 +26,37 @@
 
 
 
-## 개발 환경
+## 🔎개발 환경
+### Management Tool
+<p>
+  <img src="https://img.shields.io/badge/github-6E44FF?style=for-the-badge&logo=github&logoColor=white">  
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">  
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">  
+  <img src="https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+</p>
+### IDE
+<p>
+  <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
+  <img src="https://img.shields.io/badge/Intellij idea-000000?style=for-the-badge&logo=Intellij idea&logoColor=white">  
+  <img src="https://img.shields.io/badge/mysql%20workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=JAVASCRIPT&logoColor=black">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=VITE&logoColor=white">
+  <img src="https://img.shields.io/badge/AXIOS-5A29E4?style=for-the-badge&logo=axios&logoColor=white">
+  <img src="https://img.shields.io/badge/pinia-42b883?style=for-the-badge&logo=pinia&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+</p>
+### Backend
+<p>
+  
+</p>
+
+
 
 
 
