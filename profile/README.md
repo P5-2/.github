@@ -219,6 +219,7 @@
   - 전체 통화를 하단의 표로 확인할 수 있습니다.
     
   ![외화1](https://github.com/user-attachments/assets/2a531b7c-e064-4f9e-9d73-62c72f840c6d)
+  
   *외화 상단 하이라이트*
 
 
