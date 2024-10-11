@@ -190,6 +190,7 @@
 
     
   ![예적금으로모으기2](https://github.com/user-attachments/assets/7cab592e-33ac-4e21-949a-b056bc912325)
+  ![모으기3](https://github.com/user-attachments/assets/317abb42-f6a3-4535-9ddc-6c8bfe22cd56)
   
   *모으기 통장 설정*
 
