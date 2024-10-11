@@ -47,7 +47,9 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+
 
 ### 💻 IDE
 <p>
@@ -85,18 +87,26 @@
 
 
 
-## 설계 문서
-### 아키텍처 구조
-- 모놀리식 아키텍처
+## 📝 설계 문서
+
+### 🏛️ 아키텍처 구조
+- **모놀리식 아키텍처**를 채택하여 시스템을 설계하였습니다.
+  
   ![architecture](https://github.com/user-attachments/assets/abe9e549-5634-42c3-965d-9d1a1c40cf45)
+  *아키텍처 구조*
 
-### ERD
-- MySQL을 이용한 데이터 모델 설계
+### 📊 ERD (Entity-Relationship Diagram)
+- MySQL을 활용하여 데이터 모델을 설계하였습니다.
+  
   ![erd](https://github.com/user-attachments/assets/9468ef6a-75af-46ee-bd05-71be56085013)
+  *ERD*
 
-### 스토리보드
-- figma를 이용한 스토리보드 작성
+### 🎨 스토리보드
+- Figma를 이용해 사용자 인터페이스와 흐름을 시각적으로 설계하였습니다.
+  
   ![storyboard](https://github.com/user-attachments/assets/4abccb6a-f1d8-4eb0-b334-c625ce03ba90)
+  *스토리보드*
+
 
 
 
