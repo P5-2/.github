@@ -90,6 +90,9 @@
 - 모놀리식 아키텍처
   ![architecture](https://github.com/user-attachments/assets/abe9e549-5634-42c3-965d-9d1a1c40cf45)
 
+### ERD
+- MySQL을 이용한 데이터 모델 설계
+  ![erd](https://github.com/user-attachments/assets/9468ef6a-75af-46ee-bd05-71be56085013)
 
 ## 기능 시연
 
