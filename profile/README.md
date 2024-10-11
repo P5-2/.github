@@ -94,6 +94,12 @@
 - MySQL을 이용한 데이터 모델 설계
   ![erd](https://github.com/user-attachments/assets/9468ef6a-75af-46ee-bd05-71be56085013)
 
+### 스토리보드
+- figma를 이용한 스토리보드 작성
+  ![storyboard](https://github.com/user-attachments/assets/4abccb6a-f1d8-4eb0-b334-c625ce03ba90)
+
+
+
 ## 기능 시연
 
 
