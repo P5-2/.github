@@ -88,7 +88,7 @@
 ## 설계 문서
 ### 아키텍처 구조
 - 모놀리식 아키텍처
-  
+  ![architecture](https://github.com/user-attachments/assets/abe9e549-5634-42c3-965d-9d1a1c40cf45)
 
 
 ## 기능 시연
