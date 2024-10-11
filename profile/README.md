@@ -113,6 +113,22 @@
   ![카카오 로그인](https://github.com/user-attachments/assets/b3f425c4-a4e8-487d-b9f8-28b2bee1d83e)
   *카카오 로그인*
 
+### 📊 펀드 페이지
+- **모든 펀드 상품 조회 가능**
+  - 다양한 펀드 상품을 한눈에 확인할 수 있습니다.
+- **비교하기 기능**
+  - 체크 박스를 이용해 모달 창으로 여러 펀드 상품을 선택하고 비교할 수 있습니다.
+- **계산기 아이콘과 하트 아이콘 활용**
+  - 계산기 아이콘: 계산기에 담아 예상 이익을 계산할 수 있습니다.
+  - 하트 아이콘: 즐겨 찾기에 추가하거나 삭제할 수 있습니다.
+
+  ![fund page](https://github.com/user-attachments/assets/b0dbd307-3623-4e99-9e89-ef976b0d0b66)
+  *펀드 페이지*
+
+  ![fund 모달창](https://github.com/user-attachments/assets/e6b5b727-c44a-4b21-8a55-5f41db7db0b6)
+  *펀드 모달창*
+
+
 
 <!--
 
