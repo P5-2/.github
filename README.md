@@ -206,7 +206,7 @@
   - 계산기 아이콘: 계산기에 담아 예상 이익을 계산할 수 있습니다.
   - 하트 아이콘: 즐겨 찾기에 추가하거나 삭제할 수 있습니다.
  
-  ![savingDeposit page]
+  ![예적금리스트페이지](https://github.com/user-attachments/assets/7ace0e96-dbe4-4e70-9d4f-c5a384e0a0fd)
   *예적금 페이지*
 
 ### ⭐ 즐겨찾기 페이지
