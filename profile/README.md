@@ -149,18 +149,21 @@
 - **모놀리식 아키텍처**를 채택하여 시스템을 설계하였습니다.
   
   ![architecture](https://github.com/user-attachments/assets/abe9e549-5634-42c3-965d-9d1a1c40cf45)
+  
   *아키텍처 구조*
 
 ### 📊 ERD (Entity-Relationship Diagram)
 - MySQL을 활용하여 데이터 모델을 설계하였습니다.
   
   ![erd](https://github.com/user-attachments/assets/9468ef6a-75af-46ee-bd05-71be56085013)
+
   *ERD*
 
 ### 🎨 스토리보드
 - Figma를 이용해 사용자 인터페이스와 흐름을 시각적으로 설계하였습니다.
   
   ![storyboard](https://github.com/user-attachments/assets/4abccb6a-f1d8-4eb0-b334-c625ce03ba90)
+
   *스토리보드*
 
 
@@ -174,9 +177,11 @@
   - SNS 계정과 연동하여 손쉽게 회원 가입 및 로그인할 수 있습니다.
 
   ![네이버 로그인](https://github.com/user-attachments/assets/1975063a-7aa6-416f-899b-ae8c91205e8a)
+
   *네이버 로그인*
 
   ![카카오 로그인](https://github.com/user-attachments/assets/b3f425c4-a4e8-487d-b9f8-28b2bee1d83e)
+
   *카카오 로그인*
 
 ### 📊 펀드 페이지
@@ -189,9 +194,11 @@
   - 하트 아이콘: 즐겨 찾기에 추가하거나 삭제할 수 있습니다.
 
   ![fund page](https://github.com/user-attachments/assets/b0dbd307-3623-4e99-9e89-ef976b0d0b66)
+
   *펀드 페이지*
 
   ![fund 모달창](https://github.com/user-attachments/assets/e6b5b727-c44a-4b21-8a55-5f41db7db0b6)
+
   *펀드 모달창*
 
 
@@ -204,12 +211,15 @@
   - 체크 박스를 통해 여러 상품을 선택하고 모달 창에서 상세 비교가 가능합니다.
 
   ![like-deposit](https://github.com/user-attachments/assets/2d0ba69c-7be0-46a8-959a-8909c349115d)
+
   *예금 즐겨찾기 페이지*
 
   ![like-fund](https://github.com/user-attachments/assets/b2c031a1-6570-46d8-8955-2e71105a1e69)
+
   *펀드 즐겨찾기 페이지*
 
   ![like-savings](https://github.com/user-attachments/assets/0e85b80d-6238-4c82-a7ac-41660b371c64)
+
   *적금 즐겨찾기 페이지*
 
 
@@ -218,11 +228,13 @@
   - 사람들에게 가장 인기있는 금융상품 세 가지를 추천해줍니다.
 
   ![HotItemList](https://github.com/user-attachments/assets/f88475f3-df82-42f5-8893-c5d0051d4441)
+
   *금융상품 Hot 3*
 
 - **금융꿀팁**
  - 금융감독원이 알려주는 은행·금융에 관한 유의사항, 유익정보와 같은 꿀팁을 알려줍니다.
  ![financeTip](https://github.com/user-attachments/assets/026ff264-d645-4071-a8f0-4cba66800c12)
+
  *금융꿀팁*
 
 
@@ -231,9 +243,11 @@
   - 선택한 금융상품의 상세정보를 확인할 수 있습니다.
 
   ![예적금상세](https://github.com/user-attachments/assets/a1741622-c821-4cac-b0bd-8ac30de0a667)
+
   *예적금 상세 페이지*
 
   ![펀드상세](https://github.com/user-attachments/assets/5d511141-c2f7-4b0e-a5bb-5265ebf2ab74)
+
   *펀드 상세 페이지*
 
 ### 🧮 계산기 기능
@@ -243,9 +257,11 @@
   - 담은 상품에 원하는 금액을 투자하여 미래 수익을 계산할 수 있습니다.
 
   ![담기](https://github.com/user-attachments/assets/732f9282-2fe8-491d-9687-6e73a20f6e67)
+
   *계산기 상품 담기*
 
   ![계산하기](https://github.com/user-attachments/assets/00fe459c-8d87-4e8f-a98b-605c6e1c6ea0)
+
   *계산하기*
 
 ### ❓ 퀴즈 기능
@@ -254,6 +270,7 @@
   - 객관식 금융 퀴즈를 통해 금융 상식을 늘릴 수 있습니다.
 
   ![퀴즈](https://github.com/user-attachments/assets/884cca3b-8659-4d7a-89c4-a85e4c4e7f98)
+
   *퀴즈*
   
 ### 💰 환율 조회 페이지
