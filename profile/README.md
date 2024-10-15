@@ -148,7 +148,7 @@
 ### 🏛️ 아키텍처 구조
 - **모놀리식 아키텍처**를 채택하여 시스템을 설계하였습니다.
   
-  ![architecture](https://github.com/user-attachments/assets/abe9e549-5634-42c3-965d-9d1a1c40cf45)
+  ![image](https://github.com/user-attachments/assets/e0ff26a6-14e7-4a12-aa9a-9dd097242ff0)
   
   *아키텍처 구조*
 
