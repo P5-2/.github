@@ -156,7 +156,7 @@
   ![erd](https://github.com/user-attachments/assets/9468ef6a-75af-46ee-bd05-71be56085013)
   *ERD*
 
-### 🎨 스토리보드
+### 🎨 초기 스토리보드
 - Figma를 이용해 사용자 인터페이스와 흐름을 시각적으로 설계하였습니다.
   
   ![storyboard](https://github.com/user-attachments/assets/4abccb6a-f1d8-4eb0-b334-c625ce03ba90)
